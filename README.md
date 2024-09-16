@@ -3,7 +3,7 @@
 # Overview
 This is a basic code for the 3D elastic rods
 
-<br/><img src='demo.gif' width="600">
+<br/><img src='demo.gif' width="400">
 
 To run this code, you should have a Linux Ubuntu system
 
