@@ -1,0 +1,17 @@
+helixradius 0.01
+helixpitch 0.05
+rodRadius 1e-3
+RodLength 0.3
+youngM 1e8
+numVertices 100
+Poisson 0.5
+deltaTime 1e-3
+totalTime 5
+tol 1.0e-4
+stol 1.0e-4
+maxIter 100
+density 1000.0
+gVector 0.0 0.0 -10.0
+viscosity 0.001
+render 1
+saveData 1
